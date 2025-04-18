@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "id_paciente": 3,
+        "especialidad": "Perez",
+        "monto_a_pagar": 2160.0,
+        "estado_turno": "Pagado"
+    },
+    {
+        "id": 2,
+        "id_paciente": 1,
+        "especialidad": "Perez",
+        "monto_a_pagar": 4200.0,
+        "estado_turno": "Pagado"
+    },
+    {
+        "id": 3,
+        "id_paciente": 2,
+        "especialidad": "medico clinico",
+        "monto_a_pagar": 1552.0,
+        "estado_turno": "Pagado"
+    },
+    {
+        "id": 4,
+        "id_paciente": 12,
+        "especialidad": "odontologia",
+        "monto_a_pagar": 2910.0,
+        "estado_turno": "Pagado"
+    },
+    {
+        "id": 5,
+        "id_paciente": 10,
+        "especialidad": "traumatologia",
+        "monto_a_pagar": 4830.0,
+        "estado_turno": "Pagado"
+    }
+]

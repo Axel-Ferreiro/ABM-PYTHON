@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan",
+        "apellido": "Perez",
+        "dni": 35439054,
+        "edad": 33,
+        "fecha de registro": "01-01-2020",
+        "obra social": "Particular"
+    },
+    {
+        "id": 2,
+        "nombre": "Maria",
+        "apellido": "Lopez",
+        "dni": 28764123,
+        "edad": 45,
+        "fecha de registro": "15-08-2019",
+        "obra social": "Swiss Medical"
+    },
+    {
+        "id": 3,
+        "nombre": "Luis",
+        "apellido": "Beltran",
+        "dni": 39874561,
+        "edad": 28,
+        "fecha de registro": "20-02-2023",
+        "obra social": "Pami"
+    },
+    {
+        "id": 4,
+        "nombre": "Susana",
+        "apellido": "Fletes",
+        "dni": 45681239,
+        "edad": 52,
+        "fecha de registro": "10-11-2021",
+        "obra social": "Apres"
+    },
+    {
+        "id": 5,
+        "nombre": "Pedro",
+        "apellido": "Martinez",
+        "dni": 28765412,
+        "edad": 40,
+        "fecha de registro": "05-05-2022",
+        "obra social": "Swiss Medical"
+    },
+    {
+        "id": 6,
+        "nombre": "Ana",
+        "apellido": "Lopez",
+        "dni": 36547891,
+        "edad": 35,
+        "fecha de registro": "30-09-2023",
+        "obra social": "Particular"
+    },
+    {
+        "id": 7,
+        "nombre": "Miguel",
+        "apellido": "Malatesta",
+        "dni": 21458796,
+        "edad": 48,
+        "fecha de registro": "12-04-2020",
+        "obra social": "Apres"
+    },
+    {
+        "id": 8,
+        "nombre": "Hernan",
+        "apellido": "Morales",
+        "dni": 39875421,
+        "edad": 25,
+        "fecha de registro": "08-07-2021",
+        "obra social": "Pami"
+    },
+    {
+        "id": 9,
+        "nombre": "Carlos",
+        "apellido": "Reynoso",
+        "dni": 36548975,
+        "edad": 30,
+        "fecha de registro": "25-12-2022",
+        "obra social": "Swiss Medical"
+    },
+    {
+        "id": 10,
+        "nombre": "Laura",
+        "apellido": "Torres",
+        "dni": 21459876,
+        "edad": 42,
+        "fecha de registro": "18-03-2023",
+        "obra social": "Particular"
+    },
+    {
+        "id": 11,
+        "nombre": "Lionel",
+        "apellido": "Mateos",
+        "dni": 19421290,
+        "edad": 19,
+        "fecha de registro": "01-01-2023",
+        "obra social": "Apres"
+    },
+    {
+        "id": 12,
+        "nombre": "fernando",
+        "apellido": "morales",
+        "dni": 35432345,
+        "edad": 33,
+        "fecha de registro": "11-7-2024",
+        "obra social": "Apres"
+    }
+]
